@@ -1,4 +1,4 @@
-## Hi there 👋
+![apulidodev's GitHub Banner](https://raw.githubusercontent.com/apulidodev/apulidodev/main/banner.png)
 
 <!--
 **apulidodev/apulidodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
